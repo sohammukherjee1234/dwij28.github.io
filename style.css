@@ -1,0 +1,61 @@
+body { background-color: rgb(10, 10, 20); }
+.navbar {
+	background-color: #003311;
+}
+
+.navbar-custom a {
+	color: aqua;
+	font-family: "Felipa";
+	font-size: 1.5em;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: #004d1a;
+}
+
+.jumbotron img {
+	width: 320px;
+	height: 320px;
+	border: 0.5em solid #99ffeb;
+}
+
+.jumbotron {
+	padding-top: 100px;
+	background-color: #990000;
+}
+
+.jumbotron h1 {
+	font-family: "Tangerine";
+	font-weight: bold;
+	color: #80ff80;
+}
+
+.jumbotron h3 {
+	font-family: "Josefin Sans";
+	color: #80ff80;
+}
+
+#projects {
+	margin-top: -30px;
+	background-color: #ffff80;
+}
+
+#projects h2 {
+	font-family: "Junge";
+	font-weight: bold;
+	color: #e64d00;
+}
+
+.project-img { height: 150px; }
+
+.panel-heading, .panel-footer {
+	background-color: #80ffdf;
+	color: #800000;
+	font-family: "Metal Mania";
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+footer, footer h5 a {
+	color: #3B825F;
+}
